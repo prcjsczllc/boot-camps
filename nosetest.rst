@@ -40,6 +40,8 @@ Assert statements:
 ~~~~~~~~~~~~~~~~~~
 
 Code looks like this::
+
+
    def combine_values(func, values):
       assert len(values) > 0, 'Cannot combine values from empty list'	
       current = values[0]
