@@ -12,3 +12,8 @@ _build
 *.pyc
 #*
 
+# bootcamp
+student-info.txt
+test1.txt
+test2.txt
+foo.py
