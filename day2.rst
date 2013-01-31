@@ -4,6 +4,10 @@ Day 2 -- Applied Programming and Testing
 .. toctree::
    :maxdepth: 2
 
+   functions
+
+   nosetests
+
    2-Python/index.rst
 
    sql
