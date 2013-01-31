@@ -39,19 +39,20 @@ How will it affect your publications?
 Assert statements:
 ~~~~~~~~~~~~~~~~~~
 
-    def combine_values(func, values):
-    	assert len(values) > 0, 'Cannot combine values from empty list'
-	current = values[0]
-    for i in range(1, len(values)):
-        current = func(current, values[i])
-    return current
+Code looks like this::
+   def combine_values(func, values):
+      assert len(values) > 0, 'Cannot combine values from empty list'	
+      current = values[0]
+      for i in range(1, len(values)):
+         current = func(current, values[i])
+      return current
 
-    def add(a,b):
-    	return a + b
+   def add(a,b):
+      return a + b
 
-    numbers = [1,3,6,7,9]
-    print combine_values(add, numbers)
-    print combine_values(add, [])
+   numbers = [1,3,6,7,9]
+   print combine_values(add, numbers)
+   print combine_values(add, [])
 
 
 Nosetests:
@@ -70,7 +71,7 @@ A test function looks like this::
       # run some code
       # fail loudly or succeed silently
 
-Here's a real example:
+Here's a real example::
 
     def test_1():
         result = combine_values(add, [1,1,1]):
