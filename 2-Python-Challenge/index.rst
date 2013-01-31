@@ -8,6 +8,7 @@ Navigate your way on your awesome working machines (no setup today yay!) to the 
  
 Start a new notebook and we'll go through the demo placed at this link:
 
+http://nbviewer.ipython.org/urls/raw.github.com/adina/boot-camps/master/grannies.ipynb
 
 Note do these all within one cell in the notebook. Bonus points if you can figure out why.
 

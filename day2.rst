@@ -8,7 +8,7 @@ Day 2 -- Applied Programming and Testing
 
    nosetest
 
-   2-Python/index.rst
+   2-Python-Challenge/index.rst
 
    sql
 
