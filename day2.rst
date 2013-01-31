@@ -6,7 +6,7 @@ Day 2 -- Applied Programming and Testing
 
    functions
 
-   nosetests
+   nosetest
 
    2-Python/index.rst
 
