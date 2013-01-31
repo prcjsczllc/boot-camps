@@ -27,5 +27,19 @@ Exercise 4:
 
 I'm going to show you some code, work with your partner to figure out what will print based on that code.
 
+Exercise 5:
+
+Split and assign variables to the new grannies file containing both grades and deaths.
+
+Hint:  Dont do this on the giant file.
+
+Exercise 6:
+
+Look at the dict.get method for dictionaries.
+
+I'm going to show you some code, work with your partner to figure out what is going on in this code.
+
+Bonus:  Try to automate this code from start to finish.
+
 
 
